@@ -8,6 +8,9 @@ ns: ENTITY
 BOOL IS_ENTITY_IN_WATER(Entity entity);
 ```
 
+```
+Return 1 if in water and false if  out.
+```
 
 ## Parameters
 * **entity**: 
